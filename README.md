@@ -49,16 +49,22 @@ This phase of the analysis was mainly about getting a sense of the data: how emi
 # Dashboards
 
 ## Dashboard 1
-[![Dashboard 1](Dashboard%201.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2721ef62-51fc-47e3-b5bd-157f19e375c5" />
 
 ## Top 5 Emitters (Total)
-[![Top 5 Emitters (Total)](Top%205%20Emitters%20%28Total%29.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="786" height="455" alt="Top 5 Emitters (Total)" src="https://github.com/user-attachments/assets/31b45df6-dd49-40ab-998a-1580a50fd54e" />
 
 ## Top 5 Emitters by Year (Trend)
-[![Top 5 Emitters by Year (Trend)](Top%205%20Emitters%20by%20Year%20%28Trend%29.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="786" height="455" alt="Top 5 Emitters by Year (Trend)" src="https://github.com/user-attachments/assets/880994e1-a709-4e21-95c9-61868d333e22" />
+
 
 ## CO₂ (kt) Emission by Region/Country
-[![CO₂ (kt) Emission by Region/Country](CO2%28kt%29%20Emission%20by%20Region_Country.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="936" height="455" alt="CO2(kt) Emission by Region_Country" src="https://github.com/user-attachments/assets/ffe773f7-bc2e-4939-860b-b91f1deda6cf" />
+
 
 
 **Data Analysis**
