@@ -42,9 +42,14 @@ The raw data was prepared before being loaded into Tableau to ensure accuracy an
   
 **Exploratory Data Analysis**
 
-When we first explored the dataset, we noticed big differences in emission levels across countries and over time. Overall, global emissions have been rising, but the share from each country has shifted.
-The top contributors, in order, are the United States, China, Japan, Russia, and Germany. Among them, the U.S., China, and Japan have shown a steady increase in emissions since 1960. In contrast, Russia and Germany followed a different path—their emissions only started being recorded around 1991–1993, and since then they have generally declined.
+ When we first explored the dataset, we noticed big differences in emission levels across countries and over time. Overall, global emissions have been rising, but the share from each country has shifted.
+ 
+The top contributors, in order, are the United States, China, Japan, Russia, and Germany. Among them, the U.S., China, and Japan have shown a steady increase in emissions since 1960 although U.S Emissions started noticing a decline from 2007 in contrast to steady increase from 1960. China has never experienced any decline, it started spiking up aggressively from 2002. Russia and Germany followed a different path—their emissions only started being recorded around 1991–1993, and since then they have generally declined; This shows an immediate reaction to curbing CO2 Emissions.
+
+The developing countries like Armenia indicate a very low emission and have stabilized its emission rate. The dashboard is interactive; The trend for different countries can be viewed easily.
+
 This phase of the analysis was mainly about getting a sense of the data: how emissions are distributed, spotting broad trends, and identifying countries that stand out from the norm.
+
 
 # Dashboards
 
