@@ -46,6 +46,21 @@ When we first explored the dataset, we noticed big differences in emission level
 The top contributors, in order, are the United States, China, Japan, Russia, and Germany. Among them, the U.S., China, and Japan have shown a steady increase in emissions since 1960. In contrast, Russia and Germany followed a different path—their emissions only started being recorded around 1991–1993, and since then they have generally declined.
 This phase of the analysis was mainly about getting a sense of the data: how emissions are distributed, spotting broad trends, and identifying countries that stand out from the norm.
 
+# Dashboards
+
+## Dashboard 1
+[![Dashboard 1](Dashboard%201.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Top 5 Emitters (Total)
+[![Top 5 Emitters (Total)](Top%205%20Emitters%20%28Total%29.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Top 5 Emitters by Year (Trend)
+[![Top 5 Emitters by Year (Trend)](Top%205%20Emitters%20by%20Year%20%28Trend%29.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## CO₂ (kt) Emission by Region/Country
+[![CO₂ (kt) Emission by Region/Country](CO2%28kt%29%20Emission%20by%20Region_Country.png)](https://public.tableau.com/views/CO2ktEmissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 **Data Analysis**
 
 The core of the analysis involved using Tableau's features to visualize trends and patterns. This included creating a choropleth map to show emissions by country and a line chart to track global and regional trends. One of the key features used was the RANK() table calculation in Tableau to identify the top  emitting countries for any given year.
